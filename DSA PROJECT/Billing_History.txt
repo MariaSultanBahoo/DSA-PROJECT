@@ -1,0 +1,2 @@
+Invoice NO.1	Customer Name: RAWISH	Cashier Name: HAMZA	Order Status: 1
+Item,TEA PACK	item price :$20	item Quantity,3
